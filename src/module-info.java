@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author TOMIZAWA
+ *
+ */
+module TestJavaProject {
+}
