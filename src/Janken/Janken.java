@@ -3,6 +3,7 @@ package Janken;
 import java.util.Random;
 import java.util.Scanner;
 
+//V‚µ‚¢ƒNƒ‰ƒX‚ğì¬
 public class Janken{
 	public static void main(String[] args) {
 
